@@ -3,7 +3,7 @@
 <h1 align="center">Привет, меня зовут Юрий</h1>
 <h3 align="center">Я junior developer C# из солнечной Читы</h3>
 
-- Мое пособие для студентов [Пособие (notion)](https://chain-sapphire-71f.notion.site/01-01-9a143cbda10847c788bed0027ece821d)
+- Мое пособие для студентов [Пособие (notion)](https://chain-sapphire-71f.notion.site/01-01-9a143cbda10847c788bed0027ece821d)  (в разработке)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
